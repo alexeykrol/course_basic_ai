@@ -493,6 +493,8 @@
 
 ## Видео
 
+Смотреть видео можно на сайте по ссылке [https://alexeykrol.com/courses/ai_intro/](https://alexeykrol.com/courses/ai_intro/).
+
 #### Расшифровка видео.
 
 **Привет, дорогие мои!**

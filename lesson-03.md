@@ -30,6 +30,8 @@
 
 ### Видео
 
+Смотреть видео можно на сайте по ссылке [https://alexeykrol.com/courses/ai_intro/](https://alexeykrol.com/courses/ai_intro/).
+
 ### Подробные фрагменты
 
 00:00:01 — Введение и приветствие
